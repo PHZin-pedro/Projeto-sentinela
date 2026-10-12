@@ -47,5 +47,20 @@
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "react-router-dom": "^7.18.4"
-  }
+  },
+  "main": "eslint.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PHZin-pedro/Projeto-sentinela.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PHZin-pedro/Projeto-sentinela/issues"
+  },
+  "homepage": "https://github.com/PHZin-pedro/Projeto-sentinela#readme"
 }
